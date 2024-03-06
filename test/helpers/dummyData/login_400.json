@@ -1,0 +1,13 @@
+{
+    "type": "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+    "title": "One or more validation errors occurred.",
+    "status": 400,
+    "traceId": "00-937e61db952ff637c77abe38bc6b0480-c892c51dd13e8beb-00",
+    "errors": {
+      "EmailId": [
+        "The EmailId field is required.",
+        "The EmailId field is not a valid e-mail address."
+      ]
+    }
+  }
+  

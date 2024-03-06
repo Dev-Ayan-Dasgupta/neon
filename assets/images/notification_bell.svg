@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_353" data-name="Group 353" transform="translate(-316 -56)">
+    <rect id="Rectangle_309" data-name="Rectangle 309" width="24" height="24" transform="translate(316 56)" fill="none"/>
+    <path id="notifications-outline" d="M99.907,65.506c-1.482-1.813-2.527-2.736-2.527-7.735,0-4.578-2.338-6.209-4.262-7a1.028,1.028,0,0,1-.574-.609,2.573,2.573,0,0,0-5.08,0,1.018,1.018,0,0,1-.574.608c-1.926.793-4.262,2.418-4.262,7,0,5-1.049,5.922-2.53,7.735a1.164,1.164,0,0,0,1,1.879h17.82A1.164,1.164,0,0,0,99.907,65.506Zm-6.212,1.879v.923a3.692,3.692,0,1,1-7.385,0v-.923" transform="translate(238.161 8)" fill="#434343"/>
+  </g>
+</svg>
